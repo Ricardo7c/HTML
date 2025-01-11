@@ -12,6 +12,7 @@ Crie um arquivo HTML chamado `index.html` e configure a estrutura básica do doc
 - Use a tag `<body>` para incluir um parágrafo com o texto: "Bem-vindo à minha página HTML!".
 
 **Objetivo**: Praticar a criação de uma estrutura básica de página HTML.
+
 **Obs.: Observe que os acentos não aparecem corretamente, resolveremos isso no proximo exercício.**
 
 ---
