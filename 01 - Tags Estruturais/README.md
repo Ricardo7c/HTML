@@ -29,18 +29,7 @@ Copie o arquivo do exercício anterior e adicione os seguintes metadados:
 
 ---
 
-## **Exercício 3: Exibição do Título no Navegador**
-
-Crie um documento HTML que atenda aos seguintes requisitos:
-
-1. Configure o título da página como "Exercício de Títulos".
-2. No corpo da página, adicione uma mensagem: "O título desta página está no navegador!".
-
-**Objetivo**: Ver como o conteúdo da tag `<title>` aparece no navegador.
-
----
-
-## **Exercício 4: Combinando Estrutura com Conteúdo**
+## **Exercício 3: Combinando Estrutura com Conteúdo**
 
 Crie uma página HTML com os seguintes elementos:
 
@@ -53,7 +42,7 @@ Crie uma página HTML com os seguintes elementos:
 
 ---
 
-## **Exercício 5: Estrutura Básica para Projeto**
+## **Exercício 4: Estrutura Básica para Projeto**
 
 Imagine que você está criando a estrutura inicial de um site fictício. Siga as instruções:
 
