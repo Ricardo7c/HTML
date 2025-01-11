@@ -19,7 +19,7 @@ Crie um arquivo HTML chamado `index.html` e configure a estrutura básica do doc
 
 ## **Exercício 2: Adicionando Metadados**
 
-Adicione os seguintes metadados à estrutura básica do HTML:
+Copie o arquivo do exercício anterior e adicione os seguintes metadados:
 
 - Use a tag `<meta charset="UTF-8">` para especificar a codificação de caracteres.
 - Inclua uma tag `<meta name="description" content="Página de exemplo HTML">` para descrever a página.
