@@ -56,17 +56,7 @@ Usadas para criar listas ordenadas ou não.
 
 ---
 
-## **5. Tags de Link e Navegação**
-
-Permitem criar links e navegação.
-
-- `<a>`: Define um hiperlink.
-- `<link>`: Usado para vincular recursos externos, como CSS.
-- `<nav>`: Define uma área de navegação.
-
----
-
-## **6. Tags de Mídia**
+## **5. Tags de Mídia**
 
 Incorporam mídia como imagens, vídeos e áudio.
 
@@ -78,7 +68,7 @@ Incorporam mídia como imagens, vídeos e áudio.
 
 ---
 
-## **7. Tags de Tabela**
+## **6. Tags de Tabela**
 
 Estruturam tabelas no conteúdo.
 
@@ -92,7 +82,7 @@ Estruturam tabelas no conteúdo.
 
 ---
 
-## **8. Tags de Formulário**
+## **7. Tags de Formulário**
 
 Usadas para criar formulários interativos.
 
@@ -103,27 +93,5 @@ Usadas para criar formulários interativos.
 - `<select>`: Cria uma lista suspensa.
 - `<option>`: Define opções dentro de `<select>`.
 - `<label>`: Associa rótulos a elementos de formulário.
-
----
-
-## **9. Tags de Script**
-
-Usadas para incorporar scripts ou elementos programáveis.
-
-- `<script>`: Define ou vincula scripts, como JavaScript.
-- `<noscript>`: Define um conteúdo alternativo se scripts não forem suportados.
-- `<canvas>`: Usado para gráficos e animações.
-- `<iframe>`: Embute outra página dentro do documento.
-
----
-
-## **10. Tags Obsoletas ou Depreciadas**
-
-Tags que não são mais recomendadas ou usadas em HTML moderno.
-
-- `<font>`: Alterava a fonte do texto (substituído por CSS).
-- `<center>`: Centralizava conteúdo (substituído por CSS).
-- `<b>`: Negrito (substituído por `<strong>`).
-- `<i>`: Itálico (substituído por `<em>`).
 
 ---
