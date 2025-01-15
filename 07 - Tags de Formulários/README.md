@@ -18,7 +18,7 @@ Crie uma página HTML com:
 - Um título principal usando `<h1>`.
 - Um formulário de cadastro de produto com os seguintes campos:
   - Nome do produto.
-  - Preço do produto.
+  - Preço do produto. (usando `pattern` para formatar a moeda)
   - Descrição do produto (use um campo `<textarea>`).
   - Uma lista suspensa (`<select>`) para escolher a categoria do produto (exemplo: Eletrônicos, Roupas, Alimentos).
   - Um botão de envio.

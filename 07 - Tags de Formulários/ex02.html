@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Produto</title>
+</head>
+<body>
+    <h1>Cadastro de Produtos</h1>
+    <form action="/cadastrar_produto" method="post">
+        <label for="nome">Nome: </label><br>
+        <input type="text" name="nome" id="nome"><br><br>
+
+        <label for="valor">Valor (R$):</label><br>
+        <input type="text" id="valor" name="valor" pattern="\d{1,3}(\.\d{3})*,\d{2}" placeholder="0,00" required><br><br>
+
+        <Label for="descricao">Descrição: </Label><br>
+        <textarea name="descricao" id="descricao" rows="3" cols="30"></textarea><br><br>
+
+        <Label for="categoria">Categoria:</Label>
+        <select name="categoria" id="categoria">
+            <option value="eletronicos">Eletrônicos</option>
+            <option value="roupas">Roupas</option>
+            <option value="alimentos">Alimentos</option>
+        </select><br><br>
+
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>
