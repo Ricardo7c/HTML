@@ -7,8 +7,8 @@
 Crie uma página HTML com:
 
 - Um título principal usando `<h1>`.
-- Uma imagem centralizada representando uma paisagem (use uma URL de imagem ou caminho local).
-- Um parágrafo explicando a paisagem.
+- Uma imagem qualquer (use uma URL de imagem ou caminho local).
+- Um parágrafo explicando a imagem
 
 ---
 
