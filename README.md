@@ -2,8 +2,6 @@
 
 Fixando o conhecimento sobre as tags e seus propósitos
 
----
-
 ## **1. Tags Estruturais**
 
 Usadas para definir a estrutura básica da página.
@@ -12,8 +10,6 @@ Usadas para definir a estrutura básica da página.
 - `<head>`: Contém metadados sobre o documento.
 - `<body>`: Define o corpo do documento, onde o conteúdo visível vai.
 - `<title>`: Define o título da página exibido no navegador.
-
----
 
 ## **2. Tags Semânticas**
 
@@ -27,8 +23,6 @@ Indicam o significado do conteúdo e melhoram a acessibilidade.
 - `<aside>`: Usado para conteúdo lateral ou complementar.
 - `<nav>`: Define a navegação da página.
 
----
-
 ## **3. Tags de Formatação de Texto**
 
 Usadas para estilizar ou estruturar texto.
@@ -41,8 +35,6 @@ Usadas para estilizar ou estruturar texto.
 - `<br>`: Insere uma quebra de linha.
 - `<hr>`: Insere uma linha horizontal.
 
----
-
 ## **4. Tags de Lista**
 
 Usadas para criar listas ordenadas ou não.
@@ -54,8 +46,6 @@ Usadas para criar listas ordenadas ou não.
 - `<dt>`: Termo de definição.
 - `<dd>`: Descrição do termo.
 
----
-
 ## **5. Tags de Mídia**
 
 Incorporam mídia como imagens, vídeos e áudio.
@@ -65,8 +55,6 @@ Incorporam mídia como imagens, vídeos e áudio.
 - `<audio>`: Insere um arquivo de áudio.
 - `<source>`: Especifica várias fontes para `<video>` e `<audio>`.
 - `<track>`: Adiciona legendas ou metadados a vídeos ou áudios.
-
----
 
 ## **6. Tags de Tabela**
 
@@ -79,8 +67,6 @@ Estruturam tabelas no conteúdo.
 - `<thead>`: Agrupa cabeçalhos de tabela.
 - `<tbody>`: Agrupa o corpo da tabela.
 - `<tfoot>`: Agrupa o rodapé da tabela.
-
----
 
 ## **7. Tags de Formulário**
 
